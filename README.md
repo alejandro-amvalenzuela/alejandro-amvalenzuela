@@ -93,7 +93,8 @@ Me interesa desarrollar herramientas útiles, automatizar procesos y convertir i
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones de GitHub"/>
+<img width="100%" src="https://raw.githubusercontent.com/alejandro-amvalenzuela/alejandro-amvalenzuela/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones de GitHub"/>
+
 
 </div>
 
