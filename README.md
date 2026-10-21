@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:0D1117&height=170&section=header&text=ALEJANDRO%20VALENZUELA&fontSize=40&fontColor=79C0FF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20%7C%20MOBILE&descSize=13&descAlignY=58&descColor=C9D1D9&animation=twinkling" alt="Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:0D1117&height=170&section=header&text=ALEJANDRO%20MUÑOZ&fontSize=40&fontColor=79C0FF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20%7C%20MOBILE&descSize=13&descAlignY=58&descColor=C9D1D9&animation=twinkling" alt="Banner"/>
 
 <a href="https://github.com/alejandro-amvalenzuela">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=%3E+Building+software+that+solves+real+problems;%3E+React+Native+%7C+Expo+%7C+Node.js+%7C+PHP;%3E+PostgreSQL+%7C+APIs+%7C+Full+Stack;%3E+learn+%E2%86%92+build+%E2%86%92+improve+%E2%86%92+repeat" alt="Texto animado"/>
