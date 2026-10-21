@@ -61,20 +61,16 @@ Creo aplicaciones, sistemas de gestión y soluciones digitales, conectando inter
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=alejandro-amvalenzuela&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trofeos"/>
-
-<br/>
-
 <img width="100%" src="https://raw.githubusercontent.com/alejandro-amvalenzuela/alejandro-amvalenzuela/output/github-contribution-grid-snake-dark.svg" alt="Snake de contribuciones"/>
 
 </div>
 
 <details>
-<summary><b><code>📈 contribution_graph</code></b> · actividad de los últimos 31 días</summary>
+<summary><b><code>📈 contribution_graph</code></b> · contribuciones del último año</summary>
 <br/>
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alejandro-amvalenzuela&bg_color=0D1117&color=58A6FF&line=1F6FEB&point_color=79C0FF&area=true&area_color=1F6FEB&hide_border=true&radius=8" alt="Gráfico de actividad"/>
+<img width="95%" src="https://ghchart.rshah.org/1F6FEB/alejandro-amvalenzuela" alt="Contribuciones del último año"/>
 
 </div>
 </details>
