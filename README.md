@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:DA3633,100:0D1117&height=170&section=header&text=ALEJANDRO%20VALENZUELA&fontSize=40&fontColor=FFA198&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20%7C%20MOBILE&descSize=13&descAlignY=58&descColor=C9D1D9&animation=twinkling" alt="Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:DA3633,100:0D1117&height=170&section=header&text=ALEJANDRO%20MUÑOZ&fontSize=40&fontColor=FFA198&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20%7C%20MOBILE&descSize=13&descAlignY=58&descColor=C9D1D9&animation=twinkling" alt="Banner"/>
 
 <a href="https://github.com/alejandro-amvalenzuela">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=700&height=40&lines=%3E+Building+software+that+solves+real+problems;%3E+React+Native+%7C+Expo+%7C+Node.js+%7C+PHP;%3E+PostgreSQL+%7C+APIs+%7C+Full+Stack;%3E+learn+%E2%86%92+build+%E2%86%92+improve+%E2%86%92+repeat" alt="Texto animado"/>
@@ -61,17 +61,11 @@ Creo aplicaciones, sistemas de gestión y soluciones digitales, conectando inter
 
 <br/><br/>
 
-```text
-┌──────────────────────────────────────────────┐
-│  ~/contributions --live                      │
-└──────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1500&color=FF6B6B&center=true&vCenter=true&width=400&height=30&lines=%24+~%2Fcontributions+--live+%E2%96%8C;%24+git+log+--since%3D%221+year%22+%E2%96%8C" alt="Contribuciones"/>
 
 <img width="100%" src="https://raw.githubusercontent.com/alejandro-amvalenzuela/alejandro-amvalenzuela/output/github-contribution-grid-snake-dark.svg" alt="Snake de contribuciones"/>
 
-<img width="88%" src="https://ghchart.rshah.org/DA3633/alejandro-amvalenzuela" alt="Contribuciones del último año"/>
-
-<sub><code>// cada cuadro es un día de trabajo · el snake se actualiza solo cada día</code></sub>
+<sub><code>// cada cuadro es un día de trabajo · se actualiza solo cada día</code></sub>
 
 <br/><br/>
 
