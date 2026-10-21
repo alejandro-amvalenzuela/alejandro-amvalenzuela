@@ -1,17 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:0D1117&height=170&section=header&text=ALEJANDRO%20MUÑOZ&fontSize=40&fontColor=79C0FF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20%7C%20MOBILE&descSize=13&descAlignY=58&descColor=C9D1D9&animation=twinkling" alt="Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:DA3633,100:0D1117&height=170&section=header&text=ALEJANDRO%20VALENZUELA&fontSize=40&fontColor=FFA198&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20%7C%20MOBILE&descSize=13&descAlignY=58&descColor=C9D1D9&animation=twinkling" alt="Banner"/>
 
 <a href="https://github.com/alejandro-amvalenzuela">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=%3E+Building+software+that+solves+real+problems;%3E+React+Native+%7C+Expo+%7C+Node.js+%7C+PHP;%3E+PostgreSQL+%7C+APIs+%7C+Full+Stack;%3E+learn+%E2%86%92+build+%E2%86%92+improve+%E2%86%92+repeat" alt="Texto animado"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=700&height=40&lines=%3E+Building+software+that+solves+real+problems;%3E+React+Native+%7C+Expo+%7C+Node.js+%7C+PHP;%3E+PostgreSQL+%7C+APIs+%7C+Full+Stack;%3E+learn+%E2%86%92+build+%E2%86%92+improve+%E2%86%92+repeat" alt="Texto animado"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=alejandro-amvalenzuela&label=VISITAS&color=1F6FEB&style=flat-square&labelColor=0D1117" alt="Visitas"/>
-<img src="https://img.shields.io/github/followers/alejandro-amvalenzuela?label=SEGUIDORES&style=flat-square&labelColor=0D1117&color=1F6FEB" alt="Seguidores"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING%20SOMETHING%20NEW-0D1117?style=flat-square&labelColor=1F6FEB&color=0D1117" alt="Estado"/>
-<img src="https://img.shields.io/badge/FOCUS-WEB%20%7C%20MOBILE%20%7C%20BACKEND-0D1117?style=flat-square&labelColor=1F6FEB&color=0D1117" alt="Enfoque"/>
+<img src="https://komarev.com/ghpvc/?username=alejandro-amvalenzuela&label=VISITAS&color=DA3633&style=flat-square&labelColor=0D1117" alt="Visitas"/>
+<img src="https://img.shields.io/github/followers/alejandro-amvalenzuela?label=SEGUIDORES&style=flat-square&labelColor=0D1117&color=DA3633" alt="Seguidores"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20SOMETHING%20NEW-0D1117?style=flat-square&labelColor=DA3633&color=0D1117" alt="Estado"/>
+<img src="https://img.shields.io/badge/FOCUS-WEB%20%7C%20MOBILE%20%7C%20BACKEND-0D1117?style=flat-square&labelColor=DA3633&color=0D1117" alt="Enfoque"/>
 
 </div>
 
@@ -55,40 +55,36 @@ Creo aplicaciones, sistemas de gestión y soluciones digitales, conectando inter
 
 <br/><br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=alejandro-amvalenzuela&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&ring_color=58A6FF&include_all_commits=true" alt="Estadísticas"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-amvalenzuela&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Lenguajes"/>
-<img height="150" src="https://streak-stats.demolab.com/?user=alejandro-amvalenzuela&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Racha"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=alejandro-amvalenzuela&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&icon_color=DA3633&ring_color=FF6B6B&include_all_commits=true" alt="Estadísticas"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-amvalenzuela&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" alt="Lenguajes"/>
+<img height="150" src="https://streak-stats.demolab.com/?user=alejandro-amvalenzuela&hide_border=true&background=0D1117&stroke=30363D&ring=FF6B6B&fire=DA3633&currStreakLabel=FF6B6B&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Racha"/>
 
-<br/>
+<br/><br/>
+
+```text
+┌──────────────────────────────────────────────┐
+│  ~/contributions --live                      │
+└──────────────────────────────────────────────┘
+```
 
 <img width="100%" src="https://raw.githubusercontent.com/alejandro-amvalenzuela/alejandro-amvalenzuela/output/github-contribution-grid-snake-dark.svg" alt="Snake de contribuciones"/>
 
-</div>
+<img width="88%" src="https://ghchart.rshah.org/DA3633/alejandro-amvalenzuela" alt="Contribuciones del último año"/>
 
-<details>
-<summary><b><code>📈 contribution_graph</code></b> · contribuciones del último año</summary>
-<br/>
-<div align="center">
+<sub><code>// cada cuadro es un día de trabajo · el snake se actualiza solo cada día</code></sub>
 
-<img width="95%" src="https://ghchart.rshah.org/1F6FEB/alejandro-amvalenzuela" alt="Contribuciones del último año"/>
-
-</div>
-</details>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <a href="https://github.com/alejandro-amvalenzuela">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF6B6B" alt="GitHub"/>
 </a>
 <!--
 Descomenta y completa cuando quieras sumar más enlaces:
-<a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email"/></a>
-<a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/></a>
-<a href="URL_PORTAFOLIO"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Portafolio"/></a>
+<a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B6B" alt="Email"/></a>
+<a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6B6B" alt="LinkedIn"/></a>
+<a href="URL_PORTAFOLIO"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FF6B6B" alt="Portafolio"/></a>
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:0D1117&height=90&section=footer&text=Always%20building.%20Always%20learning.&fontSize=16&fontColor=C9D1D9&fontAlignY=65" alt="Pie"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:DA3633,100:0D1117&height=90&section=footer&text=Always%20building.%20Always%20learning.&fontSize=16&fontColor=C9D1D9&fontAlignY=65" alt="Pie"/>
 
 </div>
